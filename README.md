@@ -5,7 +5,7 @@ Ja-nal app on for mobile:
 
 # Running the app
 1. Clone this repository using any method you prefer
-2. Set up Flutter [Reference](https://docs.flutter.dev/get-started/install)
+2. Set up Flutter [(refer this)](https://docs.flutter.dev/get-started/install)
 3. Open your preferred terminal
 4. Navigate into Ja-nal (Not a fan of cd, but I simply dont like seeing to many files on the top of my repository)
 ```
