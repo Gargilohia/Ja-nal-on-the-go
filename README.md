@@ -14,4 +14,4 @@ cd Ja-nal-on-the-go/jaanal_on_the_go
 ```
 flutter run
 ```
-
+The app can run on Chrome, macOS, and _mostly_ on any iOS and/or android device and/or simulator.
